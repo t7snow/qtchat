@@ -1,0 +1,9 @@
+/Users/tuckersnow/projects/qtchatapp/build/Desktop-Debug/CMakeFiles/qtchatapp.dir
+/Users/tuckersnow/projects/qtchatapp/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/Users/tuckersnow/projects/qtchatapp/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/Users/tuckersnow/projects/qtchatapp/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/Users/tuckersnow/projects/qtchatapp/build/Desktop-Debug/CMakeFiles/install.dir
+/Users/tuckersnow/projects/qtchatapp/build/Desktop-Debug/CMakeFiles/install/local.dir
+/Users/tuckersnow/projects/qtchatapp/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/Users/tuckersnow/projects/qtchatapp/build/Desktop-Debug/CMakeFiles/qtchatapp_autogen_timestamp_deps.dir
+/Users/tuckersnow/projects/qtchatapp/build/Desktop-Debug/CMakeFiles/qtchatapp_autogen.dir
